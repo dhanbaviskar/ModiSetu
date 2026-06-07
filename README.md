@@ -8,6 +8,20 @@ AI-powered Modi Script to Devanagari Converter using PyTorch &amp; Flask
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ---
+## 📥 Download Trained Model
+
+The model file is large so it is hosted on Google Drive.
+
+👉 [Click here to Download modisetu_model.pth](https://drive.google.com/file/d/1aC20ZwfxzdWuMhtN03HJZopyAcKA4CdE/view?usp=drive_link)
+
+### After Downloading:
+1. Download the file from above link
+2. Place it inside `/model` folder like this:
+```
+ModiSetu/
+└── model/
+    └── modisetu_model.pth
+```
 
 ## 📌 About The Project
 ModiSetu is an AI-powered web application that converts 
